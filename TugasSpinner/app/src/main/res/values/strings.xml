@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TugasSpinner</string>
+
+    <string-array name="mata_kuliah">
+        <item>Interaksi Manusia dan Komputer</item>
+        <item>Intermediate English</item>
+        <item>Perencanaan Proyek Perangkat Lunak</item>
+        <item>Struktur Data</item>
+        <item>Workshop Kualitas Perangkat Lunak</item>
+        <item>Workshop Sistem Informasi Berbasis Web</item>
+        <item>Workshop Mobile Applications</item>
+    </string-array>
+</resources>
